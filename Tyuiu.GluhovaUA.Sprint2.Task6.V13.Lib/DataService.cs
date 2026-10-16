@@ -45,7 +45,7 @@ namespace Tyuiu.GluhovaUA.Sprint2.Task6.V13.Lib
             }
             else
             {
-                return $"{g}.{m:D2}.{(n + 1):D2}";
+                return $"{(n + 1):D2}.{m:D2}.{g}";
             }
         }
     }
