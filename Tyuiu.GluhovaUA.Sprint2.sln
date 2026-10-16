@@ -57,7 +57,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GluhovaUA.Sprint2.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GluhovaUA.Sprint2.Task6.V13.Lib", "Tyuiu.GluhovaUA.Sprint2.Task6.V13.Lib\Tyuiu.GluhovaUA.Sprint2.Task6.V13.Lib.csproj", "{04265C71-7ADA-4B7D-AD58-0CB67DFE51F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GluhovaUA.Sprint2.Task6.V13.Task", "Tyuiu.GluhovaUA.Sprint2.Task6.V13.Task\Tyuiu.GluhovaUA.Sprint2.Task6.V13.Task.csproj", "{6A9F360D-C856-446D-98D5-B94FA6CF5CDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GluhovaUA.Sprint2.Task6.V13.Test", "Tyuiu.GluhovaUA.Sprint2.Task6.V13.Task\Tyuiu.GluhovaUA.Sprint2.Task6.V13.Test.csproj", "{6A9F360D-C856-446D-98D5-B94FA6CF5CDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
